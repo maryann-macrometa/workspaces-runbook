@@ -1,3 +1,30 @@
+## Table of Contents
+
+-  [Objective](#objective)
+     
+- [Using Cloud Workspaces](#using-cloud-workspaces)
+    
+   -  [Prerequisites](#prerequisites)
+    
+- [Connecting to the Workspaces](#connecting-to-the-workspaces)
+   
+- [Using VDI on Workspaces](#using-vdi-on-cloud-workspaces)
+    
+  - [Prerequisites](#prerequisites)
+    
+  - [Working with Windows](#working-with-windows)
+  - [Working with Linux](#working-with-linux)
+    
+- [Using RBA to access the Western Union App](#using-rba-to-access-the-western-union-app)
+    
+  - [Validating peripheral devices for RBA](#validating-peripheral-devices-for-rba)
+    
+       - [Printer](#printer)
+       - [Signature Pad](#signature-pad)
+    
+   - [Using the Control bar](#using-the-control-bar)
+    
+- [Troubleshooting and FAQs](#troubleshooting-and-faqs)
 
 Macrometa Cloud Workspaces is redefining our approach to remote work and productivity. As a cloud-based virtual environment, it enables effective access to your work tools and business-specific applications directly from your browser. The service includes a suite of tools designed for high performance and security, including remote browser access and remote desktops on the edge.
 
