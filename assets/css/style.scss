@@ -7,6 +7,14 @@ body {
   background-color: #1f1f1f;
   margin: 0;
   padding: 0;
+  a {
+  color: #818cf8;
+  text-decoration: none;
+
+  &:hover {
+  text-decoration: underline;
+  }
+}
 }
 @import "{{ site.theme }}";
 
