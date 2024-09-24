@@ -1,12 +1,12 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  color: #333;
-  background-color: #fff;
+  color: #f4f4f4;
+  background-color: #1f1f1f;
   margin: 0;
   padding: 0;
 }
+@import "{{ site.theme }}";
+
