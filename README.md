@@ -1,5 +1,4 @@
 # Cloud Workspaces Runbook for Western Union
-A runbook detailing how to use Macrometa workspaces
 
 Macrometa Cloud Workspaces is redefining our approach to remote work and productivity. As a cloud-based virtual environment, it enables effective access to your work tools and business-specific applications directly from your browser. The service includes a suite of tools designed for high performance and security, including remote browser access and remote desktops on the edge.
 
@@ -122,15 +121,22 @@ Below is an overview of each menu on the control bar and how to use them to enha
 
 7. **Settings**: The Settings menu lets you customize your remote browser further. Here, you can adjust various aspects to tailor the browser to your preferences and optimize your user experience.
 
-
-  a. **View-only**: This option restricts the remote browser to a read-only mode, preventing any write operations. Users can browse and view content without being able to modify or interact with elements.
-  b. **Clipboard Up**: Allows users to copy text from their local device and paste it into the remote browser.
-  c. **Clipboard Down**: Enables copying content from the remote browser and pasting it onto your local device.
-  d. **Clipboard Seamless**: This feature facilitates copying and pasting between your local device and the remote browser without noticeable delays or additional steps.
-  e. **Prefer Local Cursor**: Prioritizes using the local machine's cursor for display and interaction, providing a more consistent user experience.
-  f. **Translate keyboard shortcuts**: Automatically converts local keyboard shortcuts to the corresponding shortcuts in the remote browser, ensuring they function correctly within the remote environment.
-  g. **Enable Performance Stats**: This option displays real-time performance metrics of the remote browser at the top right corner of the screen. These metrics include an FPS counter, along with network and CPU stats, where each stat shows the current value and an averaged value over time. A lower value indicates higher resource constraints, helping to identify if performance bottlenecks are due to server-side CPU or network issues.
-  h. **Enable Pointer Lock**:  Constrains the cursor within the remote browser window, providing better control during use. To release the cursor, press the escape key.
+    a. **View-only**: This option restricts the remote browser to a read-only mode, preventing any write operations. Users can browse and view content without being able to modify or interact with elements.
+  
+    b. **Clipboard Up**: Allows users to copy text from their local device and paste it into the remote browser.
+  
+    c. **Clipboard Down**: Enables copying content from the remote browser and pasting it onto your local device.
+  
+    d. **Clipboard Seamless**: This feature facilitates copying and pasting between your local device and the remote browser without noticeable delays or additional steps.
+  
+    e. **Prefer Local Cursor**: Prioritizes using the local machine's cursor for display and interaction, providing a more consistent user experience.
+  
+    f. **Translate keyboard shortcuts**: Automatically converts local keyboard shortcuts to the corresponding shortcuts in the remote browser, ensuring they function correctly within the remote environment.
+  
+    g. **Enable Performance Stats**: This option displays real-time performance metrics of the remote browser at the top right corner of the screen. These metrics include an FPS counter, along with network and CPU stats, where each stat shows the current value and an averaged value over time. A lower value indicates higher resource constraints, helping to identify if performance bottlenecks are due to server-side CPU or network issues.
+  
+    h. **Enable Pointer Lock**:  Constrains the cursor within the remote browser window, providing better control during use. To release the cursor, press the escape key.
+  
 8. **Audio**: Click the audio icon    to enable or disable audio output from the remote browser. 
 
 ## Troubleshooting and FAQs
