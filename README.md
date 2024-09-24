@@ -42,6 +42,7 @@ After you’re connected, the **Workspaces** home screen is displayed. It has th
 Cloud Workspaces offer both persistent and non-persistent remote Windows and Linux desktops accessible through your browser, allowing you to perform tasks seamlessly as if on a local machine. These remote desktops support key peripherals such as **keyboard**, **mouse**, **printer**, **camera**, and **speaker**.
 
 **Prerequisite**
+
 Before using these remote desktops, download the required installer with these steps:
 [Document the VDI installer]
 
