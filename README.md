@@ -99,6 +99,7 @@ Navigate to **Workspace Settings** and select **Peripherals Validator** to start
 ![peripherals](runbook-images/peripherals-validator.png)
 
 ##### **Printer**
+
 To validate the printer, continue with the following steps:
 1. Select **Printer** from the **Peripherals Validator** menu. It displays a coloured page to test the printer.
 
@@ -112,6 +113,7 @@ To validate the printer, continue with the following steps:
 4. Select the printer and print the test page.
 
 ##### **Signature Pad**
+
 To validate the signature pad, continue with the following steps:
 1. Select **Signature Pad** from the **Peripherals Validator** menu. It displays a signature pad validator in a remote browser.
 
@@ -158,17 +160,17 @@ Below is an overview of each menu on the control bar and how to use them to enha
 ## **Troubleshooting and FAQs**
 Here are some common issues, and steps to resolving them.
 
-**Why can’t I access workspaces?**
+### **Why can’t I access workspaces?**
 This may result from reasons like an incorrect URL or browser incompatibility. To resolve this:
 - Confirm your system meets the system requirements
 - Check the accuracy of your Workspaces URL.
 - Contact Macrometa
 
-**Why am I unable to use my peripheral devices(printer, webcams, card reader)**
+### **Why am I unable to use my peripheral devices(printer, webcams, card reader)**
 
 Peripheral devices need to be validated before being used in workspaces. However, download and install the drivers before validating your devices.
 
-**What should I do if my team experiences high latency or slow performance accessing the remote workspaces?**
+### **What should I do if my team experiences high latency or slow performance accessing the remote workspaces?**
 
 Macrometa workspaces require a minimum network bandwidth to perform optimally. To resolve slow performance:
 - Verify the network connection and bandwidth quality.
