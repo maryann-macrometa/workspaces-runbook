@@ -30,6 +30,7 @@ Once your browser is installed on your device,
 3. Log in with appropriate credentials to your workspace.
 
 After you’re connected, the **Workspaces** home screen is displayed. It has the following key services:
+
 * **Remote Browser Acceleration (RBA)** - **Western Union App** for agents.
 * **Virtual Desktop Interface(VDI)** - remote **Linux** and **Windows** desktops.
 * **VS Code**, a remote IDE for developers.
