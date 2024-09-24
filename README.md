@@ -3,7 +3,7 @@
 - [Objective](#objective)     
 - [Using Cloud Workspaces](#using-cloud-workspaces)   
   - [Prerequisites](#prerequisites) 
-- [Connecting to the Workspaces](#connecting-to-the-workspaces)
+- [Connecting to Workspaces](#connecting-to-the-workspaces)
 - [Using VDI on Workspaces](#using-vdi-on-cloud-workspaces)  
   - [Prerequisites](#prerequisites) 
   - [Working with Windows](#working-with-windows)
