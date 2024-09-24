@@ -1,4 +1,3 @@
-# Cloud Workspaces Runbook for Western Union
 
 Macrometa Cloud Workspaces is redefining our approach to remote work and productivity. As a cloud-based virtual environment, it enables effective access to your work tools and business-specific applications directly from your browser. The service includes a suite of tools designed for high performance and security, including remote browser access and remote desktops on the edge.
 
@@ -22,7 +21,7 @@ This runbook provides a comprehensive guide on how to use Western Union App and 
     d. During installation, select the "**Create shortcuts**" checkbox for easier access to the app after installation.
 
 
-### Connecting to the workspace
+### **Connecting to the Workspaces**
 Once your browser is installed on your device, 
 1. Contact Macrometa support for the URL and valid authentication credentials to access your Cloud Workspace environment.
 2. Open the browser and go to the provided URL. This URL connects you to your remote workspace and displays a login page.
@@ -36,7 +35,7 @@ After you’re connected, the **Workspaces** home screen is displayed. It has th
 
 
 
-### Using VDI on Cloud Workspaces
+### **Using VDI on Cloud Workspaces**
 Cloud Workspaces offer both persistent and non-persistent remote Windows and Linux desktops accessible through your browser, allowing you to perform tasks seamlessly as if on a local machine. These remote desktops support key peripherals such as **keyboard**, **mouse**, **printer**, **camera**, and **speaker**.
 
 #### Prerequisite
@@ -45,7 +44,7 @@ Before using these remote desktops, download the required installer with these s
 
 
 
-#### Working with Windows
+#### **Working with Windows**
 To start using the Windows desktop remotely, click **Windows Desktop** from the **Workspaces** menu. This action opens a new tab, establishing a secure connection and giving you full access to the remote Windows environment.
 
 
@@ -66,15 +65,15 @@ The Windows desktop interface provides essential control options to enhance your
 5. **Terminate session**: Closes the remote desktop session, ending your current connection to the virtual desktop safely.
 These options help customize your remote desktop experience, manage your session, and navigate the Windows environment efficiently.
 
-#### Working with Linux
+#### **Working with Linux**
 To use the remote Linux desktop, click **Linux Desktop** from the **Workspaces** menu.  This action opens a new tab, establishing a secure connection and giving you full access to the remote Linux environment. From this point, you can begin your work just as you would on a local machine. Launch applications, access files, use the terminal or browser, configure your settings, e.t.c.
 
 
 
-### Using RBA to access the Western Union App
+### **Using RBA to access the Western Union App**
 From the **Workspaces** menu, click the **Western Union App**. The app opens up in a new tab within the remote browser.
 
-#### Validating peripheral devices for RBA
+#### **Validating peripheral devices for RBA**
 The following peripheral devices are supported when accessing web apps in the remote browser: **signature pads**, **webcams**, **thermal printers**, **pin pad**, and **card readers**. 
 To ensure these devices function correctly within your remote sessions:
 
@@ -104,7 +103,7 @@ To validate the signature pad, continue with the following steps:
 
 2. Connect your signature pad device and start signing. The signature is displayed in the input above.
 
-#### Using the control bar
+#### **Using the control bar**
 
 A control bar icon  appears on the left side of the screen for you to easily manage and interact with the remote browser.
 
