@@ -1,12 +1,12 @@
 
 Macrometa Cloud Workspaces is redefining our approach to remote work and productivity. As a cloud-based virtual environment, it enables effective access to your work tools and business-specific applications directly from your browser. The service includes a suite of tools designed for high performance and security, including remote browser access and remote desktops on the edge.
 
-## Objective
+## **Objective**
 This runbook provides a comprehensive guide on how to use Western Union App and remote desktops from Macrometa Cloud Workspaces effectively. It covers everything from accessing the service to troubleshooting common issues and answers to frequently asked questions (FAQs).
 
-## Using Cloud Workspaces
+## **Using Cloud Workspaces**
 
-### Prerequisites
+### **Prerequisites**
 
 1. For **Windows 10**, download the latest stable **Chrome** browser.
 2. For  **Windows 7** and **Windows 8.1**, download the latest supported Chrome browser.
@@ -38,7 +38,7 @@ After you’re connected, the **Workspaces** home screen is displayed. It has th
 ### **Using VDI on Cloud Workspaces**
 Cloud Workspaces offer both persistent and non-persistent remote Windows and Linux desktops accessible through your browser, allowing you to perform tasks seamlessly as if on a local machine. These remote desktops support key peripherals such as **keyboard**, **mouse**, **printer**, **camera**, and **speaker**.
 
-#### Prerequisite
+#### **Prerequisite**
 Before using these remote desktops, download the required installer with these steps:
 [Document the VDI installer]
 
@@ -88,7 +88,7 @@ Once the drivers are installed, use the **Peripheral Validator** to check the fu
 
 Navigate to **Workspace Settings** and select **Peripherals Validator** to start the validation process for each device. It displays all the supported peripheral devices that can be validated.
 
-##### Printer
+##### **Printer**
 To validate the printer, continue with the following steps:
 1. Select **Printer** from the **Peripherals Validator** menu. It displays a coloured page to test the printer.
 
@@ -97,7 +97,7 @@ To validate the printer, continue with the following steps:
 
 4. Select the printer and print the test page.
 
-##### Signature Pad
+##### **Signature Pad**
 To validate the signature pad, continue with the following steps:
 1. Select **Signature Pad** from the **Peripherals Validator** menu. It displays a signature pad validator in a remote browser.
 
@@ -142,20 +142,20 @@ Below is an overview of each menu on the control bar and how to use them to enha
   
 8. **Audio**: Click the audio icon    to enable or disable audio output from the remote browser. 
 
-## Troubleshooting and FAQs
+## **Troubleshooting and FAQs**
 Here are some common issues, and steps to resolving them.
 
-### Why can’t I access workspaces?
+### **Why can’t I access workspaces?**
 This may result from reasons like an incorrect URL or browser incompatibility. To resolve this:
 - Confirm your system meets the system requirements
 - Check the accuracy of your Workspaces URL.
 - Contact Macrometa
 
-### Why am I unable to use my peripheral devices(printer, webcams, card reader)
+### **Why am I unable to use my peripheral devices(printer, webcams, card reader)**
 
 Peripheral devices need to be validated before being used in workspaces. However, download and install the drivers before validating your devices.
 
-### What should I do if my team experiences high latency or slow performance accessing the remote workspaces?
+### **What should I do if my team experiences high latency or slow performance accessing the remote workspaces?**
 
 Macrometa workspaces require a minimum network bandwidth to perform optimally. To resolve slow performance:
 - Verify the network connection and bandwidth quality.
