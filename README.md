@@ -12,10 +12,14 @@ This runbook provides a comprehensive guide on how to use Western Union App and 
 1. For **Windows 10**, download the latest stable **Chrome** browser.
 2. For  **Windows 7** and **Windows 8.1**, download the latest supported Chrome browser.
 3. For **Windows XP**, you need to install the **Supermium browser**. Follow these steps to download and install Supermium:
-  a. Go to the [Supermium v.122 release page](https://github.com/win32ss/supermium/releases/tag/v122-r6) on GitHub
-  b. Select and download the .exe file appropriate for your operating system architecture (32-bit or 64-bit).
-  c. Locate the downloaded .exe file and double-click to start the installation. Follow the on-screen instructions to complete the     installation process.
-  d. During installation, select the "**Create shortcuts**" checkbox for easier access to the app after installation.
+
+    a. Go to the [Supermium v.122 release page](https://github.com/win32ss/supermium/releases/tag/v122-r6) on GitHub
+   
+    b. Select and download the .exe file appropriate for your operating system architecture (32-bit or 64-bit).
+   
+    c. Locate the downloaded .exe file and double-click to start the installation. Follow the on-screen instructions to complete the installation process.
+   
+    d. During installation, select the "**Create shortcuts**" checkbox for easier access to the app after installation.
 
 
 ### Connecting to the workspace
