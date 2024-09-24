@@ -11,18 +11,15 @@ This runbook provides a comprehensive guide on how to use Western Union App and 
 1. For **Windows 10**, download the latest stable **Chrome** browser.
 2. For  **Windows 7** and **Windows 8.1**, download the latest supported Chrome browser.
 3. For **Windows XP**, you need to install the **Supermium browser**. Follow these steps to download and install Supermium:
-
     a. Go to the [Supermium v.122 release page](https://github.com/win32ss/supermium/releases/tag/v122-r6) on GitHub
-   
     b. Select and download the .exe file appropriate for your operating system architecture (32-bit or 64-bit).
-   
     c. Locate the downloaded .exe file and double-click to start the installation. Follow the on-screen instructions to complete the installation process.
-   
     d. During installation, select the "**Create shortcuts**" checkbox for easier access to the app after installation.
 
     ![Shortcuts](runbook-images/windows-supermium.png)
 
 ### **Connecting to the Workspaces**
+
 Once your browser is installed on your device, 
 1. Contact Macrometa support for the URL and valid authentication credentials to access your Cloud Workspace environment.
 2. Open the browser and go to the provided URL. This URL connects you to your remote workspace and displays a login page.
@@ -32,22 +29,24 @@ Once your browser is installed on your device,
 3. Log in with appropriate credentials to your workspace.
 
 After you’re connected, the **Workspaces** home screen is displayed. It has the following key services:
-- **Remote Browser Acceleration (RBA)** - **Western Union App** for agents 
-- **Virtual Desktop Interface(VDI)** - remote **Linux** and **Windows** desktops
-- **VS Code**, a remote IDE for developers.
+* **Remote Browser Acceleration (RBA)** - **Western Union App** for agents.
+* **Virtual Desktop Interface(VDI)** - remote **Linux** and **Windows** desktops.
+* **VS Code**, a remote IDE for developers.
 
     ![home-page](runbook-images/workspaces-homepage.png)
 
 ### **Using VDI on Cloud Workspaces**
+
 Cloud Workspaces offer both persistent and non-persistent remote Windows and Linux desktops accessible through your browser, allowing you to perform tasks seamlessly as if on a local machine. These remote desktops support key peripherals such as **keyboard**, **mouse**, **printer**, **camera**, and **speaker**.
 
-#### **Prerequisite**
+**Prerequisite**
 Before using these remote desktops, download the required installer with these steps:
 [Document the VDI installer]
 
 
 
 #### **Working with Windows**
+
 To start using the Windows desktop remotely, click **Windows Desktop** from the **Workspaces** menu. This action opens a new tab, establishing a secure connection and giving you full access to the remote Windows environment.
 
 ![windows](runbook-images/wndows-vdi.png)
@@ -75,11 +74,13 @@ To use the remote Linux desktop, click **Linux Desktop** from the **Workspaces**
 ![linux](runbook-images/linux-vdi.png)
 
 ### **Using RBA to access the Western Union App**
+
 From the **Workspaces** menu, click the **Western Union App**. The app opens up in a new tab within the remote browser.
 
 ![wu](runbook-images/western-union.png)
 
 #### **Validating peripheral devices for RBA**
+
 The following peripheral devices are supported when accessing web apps in the remote browser: **signature pads**, **webcams**, **thermal printers**, **pin pad**, and **card readers**. 
 To ensure these devices function correctly within your remote sessions:
 
@@ -143,19 +144,12 @@ Below is an overview of each menu on the control bar and how to use them to enha
     ![settings](runbook-images/settings.png)
 
     a. **View-only**: This option restricts the remote browser to a read-only mode, preventing any write operations. Users can browse and view content without being able to modify or interact with elements.
-  
     b. **Clipboard Up**: Allows users to copy text from their local device and paste it into the remote browser.
-  
-    c. **Clipboard Down**: Enables copying content from the remote browser and pasting it onto your local device.
-  
+    c. **Clipboard Down**: Enables copying content from the remote browser and pasting it onto your local device.  
     d. **Clipboard Seamless**: This feature facilitates copying and pasting between your local device and the remote browser without noticeable delays or additional steps.
-  
     e. **Prefer Local Cursor**: Prioritizes using the local machine's cursor for display and interaction, providing a more consistent user experience.
-  
     f. **Translate keyboard shortcuts**: Automatically converts local keyboard shortcuts to the corresponding shortcuts in the remote browser, ensuring they function correctly within the remote environment.
-  
     g. **Enable Performance Stats**: This option displays real-time performance metrics of the remote browser at the top right corner of the screen. These metrics include an FPS counter, along with network and CPU stats, where each stat shows the current value and an averaged value over time. A lower value indicates higher resource constraints, helping to identify if performance bottlenecks are due to server-side CPU or network issues.
-  
     h. **Enable Pointer Lock**:  Constrains the cursor within the remote browser window, providing better control during use. To release the cursor, press the escape key.
   
 9. **Audio**: Click the audio icon    to enable or disable audio output from the remote browser. 
@@ -163,17 +157,17 @@ Below is an overview of each menu on the control bar and how to use them to enha
 ## **Troubleshooting and FAQs**
 Here are some common issues, and steps to resolving them.
 
-### **Why can’t I access workspaces?**
+**Why can’t I access workspaces?**
 This may result from reasons like an incorrect URL or browser incompatibility. To resolve this:
 - Confirm your system meets the system requirements
 - Check the accuracy of your Workspaces URL.
 - Contact Macrometa
 
-### **Why am I unable to use my peripheral devices(printer, webcams, card reader)**
+**Why am I unable to use my peripheral devices(printer, webcams, card reader)**
 
 Peripheral devices need to be validated before being used in workspaces. However, download and install the drivers before validating your devices.
 
-### **What should I do if my team experiences high latency or slow performance accessing the remote workspaces?**
+**What should I do if my team experiences high latency or slow performance accessing the remote workspaces?**
 
 Macrometa workspaces require a minimum network bandwidth to perform optimally. To resolve slow performance:
 - Verify the network connection and bandwidth quality.
