@@ -20,14 +20,14 @@ This runbook provides a comprehensive guide on how to use Western Union App and 
    
     d. During installation, select the "**Create shortcuts**" checkbox for easier access to the app after installation.
 
-![Shortcuts](runbook-images/windows-supermium.png)
+    ![Shortcuts](runbook-images/windows-supermium.png)
 
 ### **Connecting to the Workspaces**
 Once your browser is installed on your device, 
 1. Contact Macrometa support for the URL and valid authentication credentials to access your Cloud Workspace environment.
 2. Open the browser and go to the provided URL. This URL connects you to your remote workspace and displays a login page.
 
-![login-page](runbook-images/login-page.png)
+    ![login-page](runbook-images/login-page.png)
 
 3. Log in with appropriate credentials to your workspace.
 
@@ -36,7 +36,7 @@ After you’re connected, the **Workspaces** home screen is displayed. It has th
 - **Virtual Desktop Interface(VDI)** - remote **Linux** and **Windows** desktops
 - **VS Code**, a remote IDE for developers.
 
-![home-page](runbook-images/workspaces-homepage.png)
+    ![home-page](runbook-images/workspaces-homepage.png)
 
 ### **Using VDI on Cloud Workspaces**
 Cloud Workspaces offer both persistent and non-persistent remote Windows and Linux desktops accessible through your browser, allowing you to perform tasks seamlessly as if on a local machine. These remote desktops support key peripherals such as **keyboard**, **mouse**, **printer**, **camera**, and **speaker**.
@@ -50,7 +50,7 @@ Before using these remote desktops, download the required installer with these s
 #### **Working with Windows**
 To start using the Windows desktop remotely, click **Windows Desktop** from the **Workspaces** menu. This action opens a new tab, establishing a secure connection and giving you full access to the remote Windows environment.
 
-![windows](wndows-vdi.png)
+![windows](runbook-images/wndows-vdi.png)
 
 The Windows desktop interface provides essential control options to enhance your user experience and manage your session effectively:
 
@@ -100,12 +100,12 @@ Navigate to **Workspace Settings** and select **Peripherals Validator** to start
 To validate the printer, continue with the following steps:
 1. Select **Printer** from the **Peripherals Validator** menu. It displays a coloured page to test the printer.
 
-![test-printer](runbook-images/validate-printer.png)
+    ![test-printer](runbook-images/validate-printer.png)
 
 2. Click on **Test Printer** and add a virtual PDF printer to verify that it is accessible from the remote browser.
 3. Select “**See more**..” from the **Destination** options on the print screen to check if the printer (Peripheral1-Printer) is listed. 
 
-![save-printer](runbook-images/printer-save.png)
+    ![save-printer](runbook-images/printer-save.png)
 
 4. Select the printer and print the test page.
 
@@ -113,7 +113,7 @@ To validate the printer, continue with the following steps:
 To validate the signature pad, continue with the following steps:
 1. Select **Signature Pad** from the **Peripherals Validator** menu. It displays a signature pad validator in a remote browser.
 
-![sig-pad](runbook-images/signature-pad.png)
+    ![sig-pad](runbook-images/signature-pad.png)
 
 2. Connect your signature pad device and start signing. The signature is displayed in the input above.
 
@@ -125,7 +125,7 @@ To access the control bar,
 
 - Click the control bar icon on the left side of the browser to access the menu.
 
-![control-bar](runbook-images/control-bar.png)
+    ![control-bar](runbook-images/control-bar.png)
 
 Below is an overview of each menu on the control bar and how to use them to enhance your browsing experience.
 
@@ -136,11 +136,11 @@ Below is an overview of each menu on the control bar and how to use them to enha
 5. **USB**: The USB menu displays all devices connected to your local device via USB. To connect a device to the remote browser, select it from the list and click Connect.
 6. **Display**:  This menu allows you to manage multiple monitors efficiently. Click the Display menu to add, remove, and arrange screens. New screens open in separate browser windows, which you can position on your local monitors. Use the Display menu to match the on-screen arrangement to your physical setup and adjust positions and sizes as needed.
 
-![displays](runbook-images/display.png)
+    ![displays](runbook-images/display.png)
 
 7. **Settings**: The Settings menu lets you customize your remote browser further. Here, you can adjust various aspects to tailor the browser to your preferences and optimize your user experience.
 
-![settings](runbook-images/settings.png)
+    ![settings](runbook-images/settings.png)
 
     a. **View-only**: This option restricts the remote browser to a read-only mode, preventing any write operations. Users can browse and view content without being able to modify or interact with elements.
   
